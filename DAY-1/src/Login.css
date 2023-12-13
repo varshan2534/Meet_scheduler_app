@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+    color: black;
+    background-color: pink;
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5%;
+}
+.but{
+    width:30%;
+    border-radius: 10px;
+    background-color: black;
+    color: pink;
+    font-size: medium;
+}
+html{
+    color: pink;
+    background-color: black;
+    background-image: url(https://img.freepik.com/free-vector/pink-cloud-background_91008-93.jpg?w=1060&t=st=1702438777~exp=1702439377~hmac=a5aee4b33dfcfa74b6b60f4b51f6348799e7f9804018ebd3f2b4bef83a2ef06e);
+    background-size: cover;
+}
+#head{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#uname{
+    border-radius: 20px;
+}
+#pwd{
+    border-radius: 20px;
+}
