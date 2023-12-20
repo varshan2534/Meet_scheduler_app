@@ -1,0 +1,15 @@
+
+.navbar-list {
+    list-style: none;
+    padding: 0;
+    display: flex; 
+}
+  
+.navbar-list li {
+    margin-right: 150px; 
+    margin-left: 100px;
+}
+.navcontainer{
+    background-color: grey;
+    padding: 10px; 
+}

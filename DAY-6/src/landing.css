@@ -1,0 +1,37 @@
+.container{
+    text-align: center;
+    color: white;
+    background-image: url(meet4bg.jpg);
+    /* background: rgba(0, 0, 0, 0);
+    backdrop-filter: saturate(180%) blur(10px); */
+    width: 400px;
+    height: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5%;
+    opacity: 1;
+    border-color: black;
+    border-radius: 30px;
+}
+.but3{
+    background-color: white;
+    color: black;
+    height: 40px;
+    width: 100px;
+    opacity: 1;
+}
+.landingpage{
+    color:black;
+    background-image: url(meet5bg.jpg);
+    background-size: cover;
+    height: 800px;
+    overflow: hidden;
+}
+.h12{
+    margin-top: 150px;
+    color: white;
+    font-size: 40px;
+    font-family:cursive
+}

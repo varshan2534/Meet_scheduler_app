@@ -1,0 +1,34 @@
+
+.testing{
+    background-image: url(meet3bg.jpg);
+    height:800px;
+    background-size: cover;
+}
+.about-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    color: white;
+    border-radius: 5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-image: url(meet4bg.jpg);
+  }
+  
+  .about-container h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .about-container p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .about-container ul {
+    margin-top: 10px;
+    padding-left: 20px;
+  }
+  
+
+  

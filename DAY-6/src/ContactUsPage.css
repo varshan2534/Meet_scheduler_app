@@ -1,0 +1,33 @@
+.contact-bg{
+    background-image: url(meet6bg.jpg);
+    background-size: cover;
+    height: 800px;
+}
+.contact-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    color: white;
+    background-image: url(meet4bg.jpg);
+    border-radius: 5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .contact-container h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .contact-container p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .contact-info {
+    margin-top: 15px;
+  }
+  
+  .contact-info p {
+    margin-bottom: 8px;
+  }
+  

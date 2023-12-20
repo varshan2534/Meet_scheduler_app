@@ -1,0 +1,51 @@
+.container2{
+    text-align: left;
+    color: white;
+    /* background-color: white;
+    background: rgba(0, 0, 0, 0.2);
+    backdrop-filter: saturate(180%) blur(10px); */
+    background-image: url(meet4bg.jpg);
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5%;
+    border-color: black;
+}
+.but{
+    width:30%;
+    border-radius: 10px;
+    background-color: white;
+    color:black;
+    font-size: medium;
+    margin-left: 135px;
+}
+#head{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 130px;
+}
+#uname{
+    border-radius: 20px;
+    height: 25px;
+}
+#pwd{
+    border-radius: 20px;
+    height: 25px;
+}
+.loginpage{
+    background-image: url(meetbg.jpg);
+    background-size: cover;
+    height: 800px;
+}
+h4{
+    color:white
+}
+.inputtext{
+    margin-left: 110px ;
+}
+.labels{
+    margin-left: 140px;
+}
